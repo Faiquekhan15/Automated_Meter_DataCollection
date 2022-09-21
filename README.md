@@ -1,0 +1,2 @@
+# Automated_Meter_DataCollection
+The project to replace manual meter readings with automated meter readings served as the foundation for this resource. The idea behind this is to construct a model in which the client acts as the master and the server is based on the notion of the slave because the server uses a static IP address, and the client connects to the server of their choice using a phone sim card and a dynamic routing table once the connection between the meter and the server is established you can read data from the meter.
